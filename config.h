@@ -20,67 +20,8 @@
 #include "config_common.h"
 
 // place overrides here
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#define RGBLIGHT_ANIMATIONS
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#define RGB_DI_PIN D5    // The pin the LED strip is connected to
-#define RGBLED_NUM 8     // Number of LEDs in your strip
-=======
->>>>>>> initial UT47
-=======
 #define RGBLIGHT_ANIMATIONS
 #define RGB_DI_PIN D3    // The pin the LED strip is connected to
 #define RGBLED_NUM 8     // Number of LEDs in your strip
->>>>>>> some changes in my UT47
-=======
-#define RGB_DI_PIN D5 // The pin the LED strip is connected to
-#define RGBLED_NUM 8 // Number of LEDs in your strip
->>>>>>> rebase reset
-=======
->>>>>>> initial UT47
-=======
-#define RGBLIGHT_ANIMATIONS
-#define RGB_DI_PIN D5    // The pin the LED strip is connected to
-#define RGBLED_NUM 8     // Number of LEDs in your strip
->>>>>>> some changes in my UT47
-=======
-#define RGB_DI_PIN D5 // The pin the LED strip is connected to
-#define RGBLED_NUM 8 // Number of LEDs in your strip
-<<<<<<< HEAD
->>>>>>> rebase reset
-=======
-#define RGBLIGHT_HUE_STEP 8
-#define RGBLIGHT_SAT_STEP 8
-#define RGBLIGHT_VAL_STEP 8
-
-#ifdef AUDIO_ENABLE
-#define B7_AUDIO
-#define NO_MUSIC_MODE
-#endif
->>>>>>> Some UT47 stuff
-=======
-#define RGB_DI_PIN D3    // The pin the LED strip is connected to
-#define RGBLED_NUM 8     // Number of LEDs in your strip
->>>>>>> some changes in my UT47
-=======
->>>>>>> initial UT47
-=======
-#define RGBLIGHT_ANIMATIONS
-#define RGB_DI_PIN D3    // The pin the LED strip is connected to
-#define RGBLED_NUM 8     // Number of LEDs in your strip
->>>>>>> some changes in my UT47
-=======
-#define RGBLIGHT_ANIMATIONS
-#define RGB_DI_PIN D3    // The pin the LED strip is connected to
-#define RGBLED_NUM 8     // Number of LEDs in your strip
->>>>>>> current ut47 re-add
 
 #endif
